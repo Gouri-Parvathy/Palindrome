@@ -1,0 +1,15 @@
+.whole{
+    background-color: aqua;
+    height: 100vh;
+    padding: 10px;;
+}
+.title{
+    background-color: brown;
+    color: aliceblue;
+    font-size: 30px;
+    
+    
+}
+.a{
+    font-size: 30px;
+}

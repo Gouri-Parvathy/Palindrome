@@ -1,0 +1,29 @@
+body{
+    background-color: lightgreen;
+}
+.heading{
+    text-align: center;
+    padding: 20px;
+}
+.para1{
+    text-align: center;
+    
+}
+.about{
+    background-color: green;
+      padding-bottom: 30px;
+    margin-left:350px ;
+    margin-top:50px;
+    width:50%;
+    height:70%;
+    border-radius:20px;
+    box-shadow: 2px 5px 4px yellow;
+}
+.heading2{
+    text-align: center;
+    color: #ffff;
+    padding: 20px;
+}
+.man{
+    font-weight: bold;
+}
